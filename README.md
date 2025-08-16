@@ -29,4 +29,3 @@ Here’s a screenshot of the landing page:
 2. Open `index.html` in your browser.  
 3. Edit the form action URL in `index.html` with your email:  
 ```html
-<form action="https://formsubmit.co/YOUR_EMAIL" method="POST">
