@@ -27,5 +27,4 @@ Here’s a screenshot of the landing page:
 
 1. Clone or download the repository.  
 2. Open `index.html` in your browser.  
-3. Edit the form action URL in `index.html` with your email:  
-```html
+3. Edit the form action URL in `index.html` with your email.
